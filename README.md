@@ -7,7 +7,8 @@ I'm Agus — a Data Scientist passionate about using data to understand human be
 - Search systems & algorithmic influence  
 - Usability studies & human-centered AI  
 
-🔍 You can find some of my work in the pinned repos below or on [my Substack](https://invertednonsense.substack.com/) and [LinkedIn](https://www.linkedin.com/in/agustin-orozco/).
+🔍 You can find some of my work in the pinned repos below:
+- On [my Substack](https://invertednonsense.substack.com/) and [LinkedIn](https://www.linkedin.com/in/agustin-orozco/).
 
 ---
 
